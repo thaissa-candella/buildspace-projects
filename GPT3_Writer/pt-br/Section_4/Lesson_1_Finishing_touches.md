@@ -89,4 +89,4 @@ Você terá que gerá-lo na aba de configurações do seu projeto:
 
 ### Por favor, faça isso, senão vou ficar triste
 
-Assim que você implantar sua aplicação web, tire uma captura de tela dela e publique-a em #progresso! Mostre ao mundo que você deu o fora do localhost.
+Assim que você implantar sua aplicação web, tire uma captura de tela dela e publique-a em #progresso! Mostre ao mundo que você deixou o localhost rs.
